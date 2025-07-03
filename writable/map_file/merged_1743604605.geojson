@@ -1,0 +1,6293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alexander Hurtado Jr.",
+                "Photo": "Bangan Residential_20180719_091927-1864774293.jpg",
+                "Time": "19-07-2018 09:19:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2769948,
+                    18.5433345,
+                    39.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Genesis Biscaro",
+                "Photo": "Bangan Residential_20180719_092021-1971147670.jpg",
+                "Time": "19-07-2018 09:20:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2770289,
+                    18.5433171,
+                    39.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Larry Banlinan",
+                "Photo": "Bangan Residential_20180719_092105-136654730.jpg",
+                "Time": "19-07-2018 09:21:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2770643,
+                    18.5434019,
+                    38.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Giovina Taja",
+                "Photo": "Bangan Residential_20180719_092122-1638594634.jpg",
+                "Time": "19-07-2018 09:21:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2772074,
+                    18.5434707,
+                    40.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ronald Escriba",
+                "Photo": "Bangan Residential_20180719_0922451140647228.jpg",
+                "Time": "19-07-2018 09:23:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2771881,
+                    18.5431467,
+                    41.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Condring Gabriel",
+                "Photo": "Bangan Residential_20180719_092333-444248483.jpg",
+                "Time": "19-07-2018 09:24:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2773346,
+                    18.5429732,
+                    41.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rodel Gabriel",
+                "Photo": "Bangan Residential_20180719_092429-986207774.jpg",
+                "Time": "19-07-2018 09:24:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2773252,
+                    18.5429953,
+                    41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Caren Duga",
+                "Photo": "Bangan Residential_20180719_0924571400174292.jpg",
+                "Time": "19-07-2018 09:25:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2773664,
+                    18.5429946,
+                    42.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "John Duga",
+                "Photo": "Bangan Residential_20180719_092548-280890645.jpg",
+                "Time": "19-07-2018 09:25:55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2774198,
+                    18.542959,
+                    40.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roldan Gabriel",
+                "Photo": "Bangan Residential_20180719_092608813509150.jpg",
+                "Time": "19-07-2018 09:26:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2774145,
+                    18.5429047,
+                    39
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "John Kenedy Vintero",
+                "Photo": "Bangan Residential_20180719_092629659697570.jpg",
+                "Time": "19-07-2018 09:26:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2774328,
+                    18.5428694,
+                    40.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elizabeth Hurtado",
+                "Photo": "Bangan Residential_20180719_0927042121939560.jpg",
+                "Time": "19-07-2018 09:27:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2775306,
+                    18.5428374,
+                    41.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dario Gabriel",
+                "Photo": "Bangan Residential_20180719_092733-2049662294.jpg",
+                "Time": "19-07-2018 09:27:49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2775456,
+                    18.5428475,
+                    39.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Leonard Banlinan",
+                "Photo": "Bangan Residential_20180719_092804-910320744.jpg",
+                "Time": "19-07-2018 09:28:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2775857,
+                    18.5428222,
+                    38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edmund Taja",
+                "Photo": "Bangan Residential_20180719_092833-1454751543.jpg",
+                "Time": "19-07-2018 09:28:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2775858,
+                    18.5428222,
+                    38
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Gilbert Hurtado",
+                "Photo": "Bangan Residential_20180719_092859-58835353.jpg",
+                "Time": "19-07-2018 09:29:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.277776,
+                    18.5428029,
+                    39.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jonnie Biscaro",
+                "Photo": "Bangan Residential_20180719_093015-1053700761.jpg",
+                "Time": "19-07-2018 09:30:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2782934,
+                    18.5428489,
+                    43.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bj Siriban",
+                "Photo": "Bangan Residential_20180719_093051307823348.jpg",
+                "Time": "19-07-2018 09:31:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2783152,
+                    18.5428391,
+                    40.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Henry Banlinan",
+                "Photo": "Bangan Residential_20180719_093123107850647.jpg",
+                "Time": "19-07-2018 09:31:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2783676,
+                    18.5429175,
+                    39.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Danilo Biscaro",
+                "Photo": "Bangan Residential_20180719_093210884311549.jpg",
+                "Time": "19-07-2018 09:32:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2783854,
+                    18.5429077,
+                    40.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Federico Patoc",
+                "Photo": "Bangan Residential_20180719_093300817687467.jpg",
+                "Time": "19-07-2018 09:33:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2784836,
+                    18.5428319,
+                    40.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Thelma Siriban",
+                "Photo": "Bangan Residential_20180719_093325-121740261.jpg",
+                "Time": "19-07-2018 09:33:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2784689,
+                    18.5427789,
+                    39.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bobby Patoc",
+                "Photo": "Bangan Residential_20180719_0933431381347490.jpg",
+                "Time": "19-07-2018 09:33:49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2784689,
+                    18.5427789,
+                    39.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Maria Patoc",
+                "Photo": "Bangan Residential_20180719_093410-1127137103.jpg",
+                "Time": "19-07-2018 09:34:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2784495,
+                    18.5426777,
+                    38.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joselyn Dizon Nerona",
+                "Photo": "Bangan Residential_20180719_093532-1736774166.jpg",
+                "Time": "19-07-2018 09:35:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2786059,
+                    18.5427746,
+                    38.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dizon Nirona",
+                "Photo": "Bangan Residential_20180719_0936141913846392.jpg",
+                "Time": "19-07-2018 09:36:24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2786918,
+                    18.5427058,
+                    37.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Arnold Mangligot",
+                "Photo": "Bangan Residential_20180719_0940571333593426.jpg",
+                "Time": "19-07-2018 09:41:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2787702,
+                    18.5427028,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Reylan Olivas",
+                "Photo": "Bangan Residential_20180719_094404-670921273.jpg",
+                "Time": "19-07-2018 09:44:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2787885,
+                    18.5427093,
+                    37.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nerie Barcena",
+                "Photo": "Bangan Residential_20180719_094635-869153252.jpg",
+                "Time": "19-07-2018 09:46:51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2788523,
+                    18.542659,
+                    38.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Samuel Olivas",
+                "Photo": "Bangan Residential_20180719_0950271219151106.jpg",
+                "Time": "19-07-2018 09:50:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2789187,
+                    18.5430976,
+                    44.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rogelio Olivas",
+                "Photo": "Bangan Residential_20180719_095056839846289.jpg",
+                "Time": "19-07-2018 09:51:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2788913,
+                    18.5431349,
+                    43.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jocelyn de Castro",
+                "Photo": "Bangan Residential_20180719_095144761532901.jpg",
+                "Time": "19-07-2018 09:51:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2789706,
+                    18.5431,
+                    43.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lanie Barcena",
+                "Photo": "Bangan Residential_20180719_0952281644066444.jpg",
+                "Time": "19-07-2018 09:52:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2787465,
+                    18.5431988,
+                    42.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Prodencio Eclarin",
+                "Photo": "Bangan Residential_20180719_0952542058309241.jpg",
+                "Time": "19-07-2018 09:53:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2787309,
+                    18.5432315,
+                    43.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jemma Eclarin",
+                "Photo": "Bangan Residential_20180719_0953541535648963.jpg",
+                "Time": "19-07-2018 09:54:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2787343,
+                    18.5433012,
+                    44.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Celia Tabian",
+                "Photo": "Bangan Residential_20180719_095419129286904.jpg",
+                "Time": "19-07-2018 09:54:21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2787343,
+                    18.5433012,
+                    44.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rosalina Siriban",
+                "Photo": "Bangan Residential_20180719_0955021446820335.jpg",
+                "Time": "19-07-2018 09:55:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2785941,
+                    18.5430512,
+                    42.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ligaya Sajonia",
+                "Photo": "Bangan Residential_20180719_0956511865692655.jpg",
+                "Time": "19-07-2018 09:57:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2785526,
+                    18.5432128,
+                    43.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "John Ariel Anievas",
+                "Photo": "Bangan Residential_20180719_100122-1194689036.jpg",
+                "Time": "19-07-2018 10:02:01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2791354,
+                    18.5428161,
+                    42.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Richard Battad",
+                "Photo": "Bangan Residential_20180719_100246-375845288.jpg",
+                "Time": "19-07-2018 10:03:40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2791171,
+                    18.5426165,
+                    41.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nelson Agulan",
+                "Photo": "Bangan Residential_20180719_100353347642039.jpg",
+                "Time": "19-07-2018 10:04:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2790797,
+                    18.5425758,
+                    43.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joel Agulan",
+                "Photo": "Bangan Residential_20180719_100420-303219831.jpg",
+                "Time": "19-07-2018 10:04:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.279069,
+                    18.5425672,
+                    42.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jayson Biscaro",
+                "Photo": "Bangan Residential_20180719_100500-2033614000.jpg",
+                "Time": "19-07-2018 10:06:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2792184,
+                    18.5423808,
+                    43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lisa Battad",
+                "Photo": "Bangan Residential_20180719_100641-582632151.jpg",
+                "Time": "19-07-2018 10:06:51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2792301,
+                    18.5424717,
+                    44.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Harriston Tangonan",
+                "Photo": "Bangan Residential_20180719_100749835944361.jpg",
+                "Time": "19-07-2018 10:08:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2794843,
+                    18.5427581,
+                    45.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "James Eclipse",
+                "Photo": "Bangan Residential_20180719_1008451857148294.jpg",
+                "Time": "19-07-2018 10:09:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2795228,
+                    18.5426154,
+                    47.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alejandro Pulido",
+                "Photo": "Bangan Residential_20180719_1010431025635543.jpg",
+                "Time": "19-07-2018 10:10:51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2794757,
+                    18.5427869,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Betty Agpalasin",
+                "Photo": "Bangan Residential_20180719_101917-422954236.jpg",
+                "Time": "19-07-2018 10:19:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2751168,
+                    18.5384622,
+                    41.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Hilario Ilac",
+                "Photo": "Bangan Residential_20180719_102025650881964.jpg",
+                "Time": "19-07-2018 10:21:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2752406,
+                    18.5384367,
+                    39.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Leonardo Cabulisan",
+                "Photo": "Bangan Residential_20180719_102203-1372155520.jpg",
+                "Time": "19-07-2018 10:22:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2756789,
+                    18.5381093,
+                    43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Seperina Cabulisan",
+                "Photo": "Bangan Residential_20180719_102312287008336.jpg",
+                "Time": "19-07-2018 10:23:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2756849,
+                    18.5381233,
+                    43.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nonita Pitas",
+                "Photo": "Bangan Residential_20180719_102343-1956240681.jpg",
+                "Time": "19-07-2018 10:24:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2758023,
+                    18.5381484,
+                    42.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Marilyn Saludares",
+                "Photo": "Bangan Residential_20180719_1025031743650532.jpg",
+                "Time": "19-07-2018 10:26:28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2761687,
+                    18.5378962,
+                    42.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Mercedes Domingo",
+                "Photo": "Bangan Residential_20180719_102816-102011778.jpg",
+                "Time": "19-07-2018 10:28:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2763351,
+                    18.5377534,
+                    41.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Mirna Chelsa",
+                "Photo": "Bangan Residential_20180719_102914-1062193655.jpg",
+                "Time": "19-07-2018 10:29:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2763739,
+                    18.5377341,
+                    41.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Argie Blosa",
+                "Photo": "Bangan Residential_20180719_1029421197970175.jpg",
+                "Time": "19-07-2018 10:29:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2764255,
+                    18.537721,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Marites Chelsa",
+                "Photo": "Bangan Residential_20180719_1030181245534202.jpg",
+                "Time": "19-07-2018 10:30:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2762514,
+                    18.5378624,
+                    41.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Guilbert Baltazar",
+                "Photo": "Bangan Residential_20180719_103153-673060463.jpg",
+                "Time": "19-07-2018 10:32:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2766791,
+                    18.5375027,
+                    40.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Sarapio Baltazar",
+                "Photo": "Bangan Residential_20180719_1032402048074209.jpg",
+                "Time": "19-07-2018 10:32:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2766784,
+                    18.5375025,
+                    39.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Mildred Baltazar",
+                "Photo": "Bangan Residential_20180719_103411-51536690.jpg",
+                "Time": "19-07-2018 10:34:31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2768769,
+                    18.537515,
+                    44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ermely Baltazar",
+                "Photo": "Bangan Residential_20180719_1035022143000927.jpg",
+                "Time": "19-07-2018 10:35:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2769831,
+                    18.5372608,
+                    43.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Herbert Patagi",
+                "Photo": "Bangan Residential_20180719_103553-1901515553.jpg",
+                "Time": "19-07-2018 10:36:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2769692,
+                    18.5371778,
+                    44.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elmer Baltazar",
+                "Photo": "Bangan Residential_20180719_103802-997804248.jpg",
+                "Time": "19-07-2018 10:38:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2771353,
+                    18.5374048,
+                    44.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roman Agculicol",
+                "Photo": "Bangan Residential_20180719_1038211590129943.jpg",
+                "Time": "19-07-2018 10:39:01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2771949,
+                    18.5374884,
+                    44.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Hilaria Battad",
+                "Photo": "Bangan Residential_20180719_103955737772244.jpg",
+                "Time": "19-07-2018 10:40:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2773235,
+                    18.5373944,
+                    42.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaybi Cabulisan",
+                "Photo": "Bangan Residential_20180719_104047-1371809325.jpg",
+                "Time": "19-07-2018 10:41:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2773041,
+                    18.5373635,
+                    46.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaime Alvares",
+                "Photo": "Bangan Residential_20180719_104143632453132.jpg",
+                "Time": "19-07-2018 10:41:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2774125,
+                    18.5373542,
+                    42.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Eusevio Cabulisan",
+                "Photo": "Bangan Residential_20180719_104205-181413207.jpg",
+                "Time": "19-07-2018 10:42:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2775021,
+                    18.5373144,
+                    45.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rizal Abulan",
+                "Photo": "Bangan Residential_20180719_104248-173617539.jpg",
+                "Time": "19-07-2018 10:42:56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2776197,
+                    18.5372526,
+                    42.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Anastasi Fuertes",
+                "Photo": "Bangan Residential_20180719_104310165530149.jpg",
+                "Time": "19-07-2018 10:44:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2776983,
+                    18.5372549,
+                    42.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Palabiana Baltazar",
+                "Photo": "Bangan Residential_20180719_104413521183302.jpg",
+                "Time": "19-07-2018 10:44:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.27777,
+                    18.5372166,
+                    43.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edwin Alvares",
+                "Photo": "Bangan Residential_20180719_10451046121391.jpg",
+                "Time": "19-07-2018 10:45:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2779989,
+                    18.5368516,
+                    43.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rommel Labasan",
+                "Photo": "Bangan Residential_20180719_145653-789006669.jpg",
+                "Time": "19-07-2018 14:56:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708798,
+                    18.528036,
+                    56.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ronnie Manding",
+                "Photo": "Bangan Residential_20180719_145725662986571.jpg",
+                "Time": "19-07-2018 14:58:05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2710134,
+                    18.5279224,
+                    49.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elvira Sentinillar",
+                "Photo": "Bangan Residential_20180719_14590291687807.jpg",
+                "Time": "19-07-2018 14:59:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713078,
+                    18.5277887,
+                    45.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Tessie Chano",
+                "Photo": "Bangan Residential_20180719_1459461692812361.jpg",
+                "Time": "19-07-2018 15:00:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714036,
+                    18.5276069,
+                    43.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rogelio Gavino",
+                "Photo": "Bangan Residential_20180719_1500231968200964.jpg",
+                "Time": "19-07-2018 15:00:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714036,
+                    18.5276069,
+                    43.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jayson Chano",
+                "Photo": "Bangan Residential_20180719_1501031206777647.jpg",
+                "Time": "19-07-2018 15:01:10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714079,
+                    18.527446,
+                    43.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bobby Illustrado",
+                "Photo": "Bangan Residential_20180719_150157870161903.jpg",
+                "Time": "19-07-2018 15:02:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2716698,
+                    18.5274227,
+                    43.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vicmar Illustrado",
+                "Photo": "Bangan Residential_20180719_150254597067864.jpg",
+                "Time": "19-07-2018 15:03:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2717875,
+                    18.5272061,
+                    41.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Melicio Illustrado",
+                "Photo": "Bangan Residential_20180719_1503312117213565.jpg",
+                "Time": "19-07-2018 15:03:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2718039,
+                    18.5271904,
+                    41.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Potenciana Miranda Paranial",
+                "Photo": "Bangan Residential_20180719_1504011601140769.jpg",
+                "Time": "19-07-2018 15:04:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2717486,
+                    18.5270537,
+                    41.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jhonny Bacud",
+                "Photo": "Bangan Residential_20180719_1506191133515591.jpg",
+                "Time": "19-07-2018 15:06:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2722201,
+                    18.5274036,
+                    38.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaime Labasan",
+                "Photo": "Bangan Residential_20180719_150727-1869762919.jpg",
+                "Time": "19-07-2018 15:07:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2720581,
+                    18.5270746,
+                    44.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaime Labasan",
+                "Photo": "Bangan Residential_20180719_1507591330139690.jpg",
+                "Time": "19-07-2018 15:08:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2720347,
+                    18.5270438,
+                    44.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roy Tangonan",
+                "Photo": "Bangan Residential_20180719_1509561551509518.jpg",
+                "Time": "19-07-2018 15:10:14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2725812,
+                    18.5271471,
+                    40.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jimmy Illustrado",
+                "Photo": "Bangan Residential_20180719_151323-831301679.jpg",
+                "Time": "19-07-2018 15:14:01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2728381,
+                    18.5270246,
+                    43.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rimo Paranial",
+                "Photo": "Bangan Residential_20180719_151603-1306517771.jpg",
+                "Time": "19-07-2018 15:16:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2724816,
+                    18.5268756,
+                    39.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jeric Sotosa",
+                "Photo": "Bangan Residential_20180719_151656902843101.jpg",
+                "Time": "19-07-2018 15:17:14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2722949,
+                    18.5268467,
+                    43.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Thomas Liquigan",
+                "Photo": "Bangan Residential_20180719_152101535089108.jpg",
+                "Time": "19-07-2018 15:21:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714125,
+                    18.5273083,
+                    44.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alfredo Domingo",
+                "Photo": "Bangan Residential_20180719_152255-1264663018.jpg",
+                "Time": "19-07-2018 15:23:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271125,
+                    18.5271659,
+                    45.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lito Burgos",
+                "Photo": "Bangan Residential_20180719_152346-1032291026.jpg",
+                "Time": "19-07-2018 15:23:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711526,
+                    18.5271682,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Junie Burgos",
+                "Photo": "Bangan Residential_20180719_152410-816184182.jpg",
+                "Time": "19-07-2018 15:24:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2709977,
+                    18.5270858,
+                    48.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Helen Cere\u00f1ado",
+                "Photo": "Bangan Residential_20180719_152455-1875103428.jpg",
+                "Time": "19-07-2018 15:25:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2709954,
+                    18.5270944,
+                    47.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Zoylo Acab",
+                "Photo": "Bangan Residential_20180719_1525311700403261.jpg",
+                "Time": "19-07-2018 15:25:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708426,
+                    18.5272392,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Russel Palaran",
+                "Photo": "Bangan Residential_20180719_1526041369649347.jpg",
+                "Time": "19-07-2018 15:26:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270738,
+                    18.5273169,
+                    42.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Fernando Ilustrado",
+                "Photo": "Bangan Residential_20180719_152646523245902.jpg",
+                "Time": "19-07-2018 15:27:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707356,
+                    18.5274041,
+                    44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Junior Tabian",
+                "Photo": "Bangan Residential_20180719_1527161818153850.jpg",
+                "Time": "19-07-2018 15:27:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706686,
+                    18.5274978,
+                    42.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roel Tapec ",
+                "Photo": "Bangan Residential_20180719_152752-2075005614.jpg",
+                "Time": "19-07-2018 15:29:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2705563,
+                    18.5275511,
+                    41.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Sunny Tapec Sr.",
+                "Photo": "Bangan Residential_20180719_152921225520593.jpg",
+                "Time": "19-07-2018 15:29:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2705103,
+                    18.5275998,
+                    42.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alberto Ilustrado",
+                "Photo": "Bangan Residential_20180719_153044-1314674018.jpg",
+                "Time": "19-07-2018 15:30:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270448,
+                    18.5273348,
+                    43.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Michael Tapec",
+                "Photo": "Bangan Residential_20180719_153217-1201825367.jpg",
+                "Time": "19-07-2018 15:32:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707418,
+                    18.527438,
+                    43.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edward Labasan Jr.",
+                "Photo": "Bangan Residential_20180719_153241-1828812228.jpg",
+                "Time": "19-07-2018 15:32:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707843,
+                    18.5276064,
+                    43.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edward Labasan Sr.",
+                "Photo": "Bangan Residential_20180719_153309153887714.jpg",
+                "Time": "19-07-2018 15:33:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708243,
+                    18.5277472,
+                    42.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ronald Orteza",
+                "Photo": "Bangan Residential_20180719_153355-1658226117.jpg",
+                "Time": "19-07-2018 15:34:05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708447,
+                    18.5277351,
+                    43.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Pateracio Florentina",
+                "Photo": "Bangan Residential_20180719_153422-1341859087.jpg",
+                "Time": "19-07-2018 15:34:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708363,
+                    18.5277404,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dante Sebastian",
+                "Photo": "Bangan Residential_20180719_153446-795841678.jpg",
+                "Time": "19-07-2018 15:34:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708476,
+                    18.5277368,
+                    45.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Henry Illustrado",
+                "Photo": "Bangan Residential_20180719_153507283178712.jpg",
+                "Time": "19-07-2018 15:35:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2708709,
+                    18.527839,
+                    44.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Crispin Dumlao",
+                "Photo": "Bangan Residential_20180719_154036-228015880.jpg",
+                "Time": "19-07-2018 15:40:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270395,
+                    18.5288768,
+                    43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Anghel Dumlao Jr. ",
+                "Photo": "Bangan Residential_20180719_154059618130736.jpg",
+                "Time": "19-07-2018 15:41:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704112,
+                    18.5289878,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Anghel Dumlao Sr. ",
+                "Photo": "Bangan Residential_20180719_1542051137288402.jpg",
+                "Time": "19-07-2018 15:42:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704059,
+                    18.5289928,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Almarante Mundok",
+                "Photo": "Bangan Residential_20180719_1542351450569777.jpg",
+                "Time": "19-07-2018 15:42:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704306,
+                    18.5290237,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alex Dumlao",
+                "Photo": "Bangan Residential_20180719_1543161134675120.jpg",
+                "Time": "19-07-2018 15:43:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703065,
+                    18.5291599,
+                    45.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Efren Dumlao",
+                "Photo": "Bangan Residential_20180719_154348610809302.jpg",
+                "Time": "19-07-2018 15:43:58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702816,
+                    18.5291183,
+                    45.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edward Dumlao",
+                "Photo": "Bangan Residential_20180719_154417292350641.jpg",
+                "Time": "19-07-2018 15:44:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702439,
+                    18.5290846,
+                    44.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Reny Aspili",
+                "Photo": "Bangan Residential_20180719_154505-1215717748.jpg",
+                "Time": "19-07-2018 15:45:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.27025,
+                    18.5291936,
+                    44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaime Satosa",
+                "Photo": "Bangan Residential_20180719_154529-434939526.jpg",
+                "Time": "19-07-2018 15:45:49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701125,
+                    18.529278,
+                    47.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Angelo Cachapero",
+                "Photo": "Bangan Residential_20180719_154603915531024.jpg",
+                "Time": "19-07-2018 15:46:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700197,
+                    18.5293066,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edgar Aspili",
+                "Photo": "Bangan Residential_20180719_1547161231788082.jpg",
+                "Time": "19-07-2018 15:47:25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700827,
+                    18.5294363,
+                    46.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Stanslao Aspili Jr.",
+                "Photo": "Bangan Residential_20180719_1548331436205595.jpg",
+                "Time": "19-07-2018 15:48:51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700637,
+                    18.5295893,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vincent Aspili",
+                "Photo": "Bangan Residential_20180719_154929-282673368.jpg",
+                "Time": "19-07-2018 15:49:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701504,
+                    18.5297458,
+                    46.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bwenalita Cenal",
+                "Photo": "Bangan Residential_20180719_155154-1111669029.jpg",
+                "Time": "19-07-2018 15:52:23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2705922,
+                    18.5290727,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rene Mingming",
+                "Photo": "Bangan Residential_20180719_155335-800852167.jpg",
+                "Time": "19-07-2018 15:53:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703909,
+                    18.5293397,
+                    50.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Arlene Mingming",
+                "Photo": "Bangan Residential_20180719_155410-1500732484.jpg",
+                "Time": "19-07-2018 15:54:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270404,
+                    18.5293673,
+                    46.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Carlos Mundok",
+                "Photo": "Bangan Residential_20180719_155441338794539.jpg",
+                "Time": "19-07-2018 15:54:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2705592,
+                    18.5295165,
+                    48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Avelino Garcia",
+                "Photo": "Bangan Residential_20180719_155602559991653.jpg",
+                "Time": "19-07-2018 15:56:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2705939,
+                    18.5299877,
+                    49.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Benjamin Illustrado Jr.",
+                "Photo": "Bangan Residential_20180719_1556271402700687.jpg",
+                "Time": "19-07-2018 15:56:47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706536,
+                    18.5299963,
+                    47.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Benjamin Illustrado Sr.",
+                "Photo": "Bangan Residential_20180719_161312645726428.jpg",
+                "Time": "19-07-2018 16:13:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707521,
+                    18.5300138,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Francisco Illustrado",
+                "Photo": "Bangan Residential_20180719_161354-1350343221.jpg",
+                "Time": "19-07-2018 16:14:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707695,
+                    18.530023,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alfredo Tabbada",
+                "Photo": "Bangan Residential_20180719_1614191974447058.jpg",
+                "Time": "19-07-2018 16:14:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270685,
+                    18.5299417,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nessi Cienda",
+                "Photo": "Bangan Residential_20180726_0842491820046935.jpg",
+                "Time": "26-07-2018 08:43:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2717681,
+                    18.5332376,
+                    50.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nolly Cienda",
+                "Photo": "Bangan Residential_20180726_0844031135377267.jpg",
+                "Time": "26-07-2018 08:44:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2717885,
+                    18.5332524,
+                    50.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Paat Bermudes",
+                "Photo": "Bangan Residential_20180726_084433493539006.jpg",
+                "Time": "26-07-2018 08:46:24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2719007,
+                    18.5329981,
+                    50.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Robert Paat",
+                "Photo": "Bangan Residential_20180726_084625803588876.jpg",
+                "Time": "26-07-2018 08:47:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271917,
+                    18.5329548,
+                    49.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Arthur Alcantara",
+                "Photo": "Bangan Residential_20180726_084726-1331962850.jpg",
+                "Time": "26-07-2018 08:47:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2718829,
+                    18.5328454,
+                    50.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Mary Joy Agapito",
+                "Photo": "Bangan Residential_20180726_084819-434134127.jpg",
+                "Time": "26-07-2018 08:48:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2717841,
+                    18.5330343,
+                    44.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Riza Joy Eclipse",
+                "Photo": "Bangan Residential_20180726_085002-962120383.jpg",
+                "Time": "26-07-2018 08:51:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713426,
+                    18.5330243,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rodel Tamayo",
+                "Photo": "Bangan Residential_20180726_08514394624315.jpg",
+                "Time": "26-07-2018 08:52:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271267,
+                    18.5329698,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vicente Eclipse",
+                "Photo": "Bangan Residential_20180726_085316-1477053026.jpg",
+                "Time": "26-07-2018 08:53:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711619,
+                    18.5328223,
+                    49.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Armando Bagasol",
+                "Photo": "Bangan Residential_20180726_085500852424797.jpg",
+                "Time": "26-07-2018 08:55:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711946,
+                    18.5331341,
+                    47.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Eusebio Yadao",
+                "Photo": "Bangan Residential_20180726_085543571489758.jpg",
+                "Time": "26-07-2018 08:56:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2710379,
+                    18.5329981,
+                    49.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Henry Agcaoili",
+                "Photo": "Bangan Residential_20180726_085707-1895031914.jpg",
+                "Time": "26-07-2018 08:57:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706567,
+                    18.5333342,
+                    46.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Armando Agcaoili",
+                "Photo": "Bangan Residential_20180726_085835176602746.jpg",
+                "Time": "26-07-2018 08:59:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707255,
+                    18.5334621,
+                    50.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Armando Agcaoili",
+                "Photo": "Bangan Residential_20180726_085911-1321110969.jpg",
+                "Time": "26-07-2018 08:59:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707531,
+                    18.5335209,
+                    45.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Louiemar Agcaoili",
+                "Photo": "Bangan Residential_20180726_085951-296564158.jpg",
+                "Time": "26-07-2018 09:00:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706273,
+                    18.5335274,
+                    45.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Seni Agustin",
+                "Photo": "Bangan Residential_20180726_090205-404204900.jpg",
+                "Time": "26-07-2018 09:02:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.27035,
+                    18.5335691,
+                    47.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Teddy Pablo",
+                "Photo": "Bangan Residential_20180726_090325-1727850551.jpg",
+                "Time": "26-07-2018 09:03:48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700916,
+                    18.5333227,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rolando Pablo",
+                "Photo": "Bangan Residential_20180726_090437183548533.jpg",
+                "Time": "26-07-2018 09:05:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2699293,
+                    18.5335392,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Toni Yadao",
+                "Photo": "Bangan Residential_20180726_0906211519485967.jpg",
+                "Time": "26-07-2018 09:06:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2699861,
+                    18.5339474,
+                    46.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Mary Anne Pablo",
+                "Photo": "Bangan Residential_20180726_0906461703669984.jpg",
+                "Time": "26-07-2018 09:07:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700571,
+                    18.5340358,
+                    46.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Marlou Yadao",
+                "Photo": "Bangan Residential_20180726_090751-763992604.jpg",
+                "Time": "26-07-2018 09:08:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701777,
+                    18.5338054,
+                    47.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joselyn Badua",
+                "Photo": "Bangan Residential_20180726_090920-9202163.jpg",
+                "Time": "26-07-2018 09:09:58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700563,
+                    18.5342994,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Josefina Saddam",
+                "Photo": "Bangan Residential_20180726_0911041844100328.jpg",
+                "Time": "26-07-2018 09:11:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703113,
+                    18.5343507,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Randy Saddam",
+                "Photo": "Bangan Residential_20180726_0918581691173299.jpg",
+                "Time": "26-07-2018 09:20:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702344,
+                    18.5330155,
+                    49.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nenita Saddam",
+                "Photo": "Bangan Residential_20180726_092014-416845531.jpg",
+                "Time": "26-07-2018 09:20:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702041,
+                    18.5330539,
+                    49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Criselda Puntalan",
+                "Photo": "Bangan Residential_20180726_092139-751271080.jpg",
+                "Time": "26-07-2018 09:22:02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702536,
+                    18.5332119,
+                    48.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Macoy Agcaoili",
+                "Photo": "Bangan Residential_20180726_0923122136099328.jpg",
+                "Time": "26-07-2018 09:25:21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704645,
+                    18.5330563,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Warren Agcaoili",
+                "Photo": "Bangan Residential_20180726_092523-1235713712.jpg",
+                "Time": "26-07-2018 09:25:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704637,
+                    18.5330507,
+                    47.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bong Agcaoili",
+                "Photo": "Bangan Residential_20180726_095017-1884147900.jpg",
+                "Time": "26-07-2018 09:50:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707543,
+                    18.5329331,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rolex Ines",
+                "Photo": "Bangan Residential_20180726_0951421517303376.jpg",
+                "Time": "26-07-2018 09:52:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702628,
+                    18.5328575,
+                    48.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lyn Fuertes",
+                "Photo": "Bangan Residential_20180726_095247-2041954555.jpg",
+                "Time": "26-07-2018 09:53:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2698546,
+                    18.5329523,
+                    47.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jomar Acantilado",
+                "Photo": "Bangan Residential_20180726_095336-1628608491.jpg",
+                "Time": "26-07-2018 09:54:36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2697512,
+                    18.5329377,
+                    47.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Genie Acantilado",
+                "Photo": "Bangan Residential_20180726_095437319406245.jpg",
+                "Time": "26-07-2018 09:55:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2697082,
+                    18.532903,
+                    50.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Amparo Baldos",
+                "Photo": "Bangan Residential_20180726_095516-1339875567.jpg",
+                "Time": "26-07-2018 09:55:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2698133,
+                    18.5327869,
+                    47.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Zenaida Lucero",
+                "Photo": "Bangan Residential_20180726_095558323327814.jpg",
+                "Time": "26-07-2018 09:56:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2696367,
+                    18.5327538,
+                    47.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Fernando Labao",
+                "Photo": "Bangan Residential_20180726_0956391733106879.jpg",
+                "Time": "26-07-2018 09:58:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693908,
+                    18.5328045,
+                    45.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Celso Acantilado",
+                "Photo": "Bangan Residential_20180726_095834531390196.jpg",
+                "Time": "26-07-2018 09:59:28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693753,
+                    18.532713,
+                    48.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Maximo Dadufalsa",
+                "Photo": "Bangan Residential_20180726_0959481373046246.jpg",
+                "Time": "26-07-2018 10:00:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2692022,
+                    18.5327997,
+                    48.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Restituto Dadufalsa",
+                "Photo": "Bangan Residential_20180726_100029387335845.jpg",
+                "Time": "26-07-2018 10:01:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2692607,
+                    18.5329909,
+                    46.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jerry Illustrado",
+                "Photo": "Bangan Residential_20180726_100212-1597039076.jpg",
+                "Time": "26-07-2018 10:02:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2691661,
+                    18.5326954,
+                    47.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Emilia Buentipo",
+                "Photo": "Bangan Residential_20180726_100307-441099190.jpg",
+                "Time": "26-07-2018 10:03:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2690931,
+                    18.5328215,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Reynaldo Dedufalsa",
+                "Photo": "Bangan Residential_20180726_100538-716934079.jpg",
+                "Time": "26-07-2018 10:06:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2689055,
+                    18.5326849,
+                    47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nenoy Eclarin",
+                "Photo": "Bangan Residential_20180726_1007111613329792.jpg",
+                "Time": "26-07-2018 10:07:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2685607,
+                    18.5327817,
+                    48.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Wilfredo Tangonan",
+                "Photo": "Bangan Residential_20180726_100807-369112115.jpg",
+                "Time": "26-07-2018 10:08:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2683659,
+                    18.5328538,
+                    48.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dante Padama",
+                "Photo": "Bangan Residential_20180726_1008551240299169.jpg",
+                "Time": "26-07-2018 10:10:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2683602,
+                    18.5328722,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ma'am Tabunan ti Trade",
+                "Photo": "Bangan Residential_20180726_101120-667650781.jpg",
+                "Time": "26-07-2018 10:15:36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2681679,
+                    18.532957,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rosemarie Faranial",
+                "Photo": "Bangan Residential_20180726_1018041872246604.jpg",
+                "Time": "26-07-2018 10:19:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2681659,
+                    18.5330959,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roel Valdez",
+                "Photo": "Bangan Residential_20180726_102052-976259135.jpg",
+                "Time": "26-07-2018 10:21:55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2681612,
+                    18.5333895,
+                    45.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Socorro Valdez",
+                "Photo": "Bangan Residential_20180726_102157-1954439600.jpg",
+                "Time": "26-07-2018 10:23:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.268215,
+                    18.5334535,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Richard Valdez",
+                "Photo": "Bangan Residential_20180726_1023091010008368.jpg",
+                "Time": "26-07-2018 10:23:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2682081,
+                    18.533481,
+                    46.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ernesto Valdez",
+                "Photo": "Bangan Residential_20180726_1023561863898374.jpg",
+                "Time": "26-07-2018 10:24:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2680817,
+                    18.5332061,
+                    46.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nelly Lim",
+                "Photo": "Bangan Residential_20180726_1024381730492516.jpg",
+                "Time": "26-07-2018 10:25:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2679979,
+                    18.5330461,
+                    48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Andres Padama",
+                "Photo": "Bangan Residential_20180726_1026111957054128.jpg",
+                "Time": "26-07-2018 10:27:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2679646,
+                    18.5332695,
+                    52.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rewin Valenzuela",
+                "Photo": "Bangan Residential_20180726_1027571029588212.jpg",
+                "Time": "26-07-2018 10:28:31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2679009,
+                    18.5331152,
+                    49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Boyet Valenzuela",
+                "Photo": "Bangan Residential_20180726_102841-288369776.jpg",
+                "Time": "26-07-2018 10:28:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2677998,
+                    18.5331509,
+                    54.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ricardo Rugyan",
+                "Photo": "Bangan Residential_20180726_102903872760232.jpg",
+                "Time": "26-07-2018 10:29:24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2677468,
+                    18.5331781,
+                    54.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ricardo Rugayan Ext.",
+                "Photo": "Bangan Residential_20180726_102926-98507931.jpg",
+                "Time": "26-07-2018 10:29:56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2677325,
+                    18.5333093,
+                    49.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Tom Natividad",
+                "Photo": "Bangan Residential_20180726_103008-668894387.jpg",
+                "Time": "26-07-2018 10:30:48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674054,
+                    18.5333363,
+                    47.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alfredo Gonzales",
+                "Photo": "Bangan Residential_20180726_1032071717339407.jpg",
+                "Time": "26-07-2018 10:32:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674621,
+                    18.5334393,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dina Dadufalza",
+                "Photo": "Bangan Residential_20180726_1032491317899091.jpg",
+                "Time": "26-07-2018 10:33:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.267359,
+                    18.5334561,
+                    46.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Luz Dadufalza",
+                "Photo": "Bangan Residential_20180726_103329-1626012942.jpg",
+                "Time": "26-07-2018 10:34:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2673203,
+                    18.533525,
+                    46.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Marta Dadufalza",
+                "Photo": "Bangan Residential_20180726_10342083224400.jpg",
+                "Time": "26-07-2018 10:35:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674251,
+                    18.5337363,
+                    45.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Oscar Dadufalza",
+                "Photo": "Bangan Residential_20180726_103509535709264.jpg",
+                "Time": "26-07-2018 10:35:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2675163,
+                    18.5338991,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Santos Fuertes",
+                "Photo": "Bangan Residential_20180726_103624-14188247.jpg",
+                "Time": "26-07-2018 10:37:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2672327,
+                    18.5334386,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Cecilia Nepulda",
+                "Photo": "Bangan Residential_20180726_104102-1125619815.jpg",
+                "Time": "26-07-2018 10:41:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2671962,
+                    18.5336349,
+                    49.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joel Nepulda",
+                "Photo": "Bangan Residential_20180726_104128502072788.jpg",
+                "Time": "26-07-2018 10:41:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2672327,
+                    18.5336677,
+                    49.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Remedios Acantilado",
+                "Photo": "Bangan Residential_20180726_104314-88373917.jpg",
+                "Time": "26-07-2018 10:43:40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2669987,
+                    18.5336858,
+                    46.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Enrique Acantilado",
+                "Photo": "Bangan Residential_20180726_104350-984027960.jpg",
+                "Time": "26-07-2018 10:44:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.266919,
+                    18.5337445,
+                    46.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Oscar Acosta",
+                "Photo": "Bangan Residential_20180726_104430-1373166585.jpg",
+                "Time": "26-07-2018 10:44:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2668341,
+                    18.5336892,
+                    49.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jerry Mata",
+                "Photo": "Bangan Residential_20180726_1044541655855303.jpg",
+                "Time": "26-07-2018 10:45:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.26683,
+                    18.5338139,
+                    47.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edwin Sadang",
+                "Photo": "Bangan Residential_20180726_1045591216920675.jpg",
+                "Time": "26-07-2018 10:46:21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2666479,
+                    18.5338945,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rogelio Mata",
+                "Photo": "Bangan Residential_20180726_1046251119950337.jpg",
+                "Time": "26-07-2018 10:47:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2666145,
+                    18.5338859,
+                    46.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Cheryl Callo",
+                "Photo": "Bangan Residential_20180726_104705224116606.jpg",
+                "Time": "26-07-2018 10:47:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2664075,
+                    18.5339543,
+                    47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elena Sadang",
+                "Photo": "Bangan Residential_20180726_104748-1415439441.jpg",
+                "Time": "26-07-2018 10:48:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2665468,
+                    18.5340138,
+                    48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Gloria Sadang",
+                "Photo": "Bangan Residential_20180726_104852-940868072.jpg",
+                "Time": "26-07-2018 10:49:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2665929,
+                    18.5341175,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Santos Fuertes Ext.",
+                "Photo": "Bangan Residential_20180726_10494752234146.jpg",
+                "Time": "26-07-2018 10:50:58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2662805,
+                    18.5340405,
+                    48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jovy Balbuena",
+                "Photo": "Bangan Residential_20180726_105108625135219.jpg",
+                "Time": "26-07-2018 10:52:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660677,
+                    18.5339934,
+                    51.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jessy Ines Jr.",
+                "Photo": "Bangan Residential_20180726_105319-773267789.jpg",
+                "Time": "26-07-2018 10:54:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660008,
+                    18.5342384,
+                    45.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jerry Ines",
+                "Photo": "Bangan Residential_20180726_1054351583401604.jpg",
+                "Time": "26-07-2018 10:54:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2658672,
+                    18.5341557,
+                    49.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edelyn Faith Aguda",
+                "Photo": "Bangan Residential_20180726_105456-490119706.jpg",
+                "Time": "26-07-2018 10:55:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.265864,
+                    18.5341124,
+                    50.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Tarzan Gabriel",
+                "Photo": "Bangan Residential_20181019_0853021573235102.jpg",
+                "Time": "19-10-2018 08:54:14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2618864,
+                    18.5373233,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Samuel Perdido",
+                "Photo": "Bangan Residential_20181019_0854251477276429.jpg",
+                "Time": "19-10-2018 08:54:58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2619389,
+                    18.5372604,
+                    42.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dominga Tangonan",
+                "Photo": "Bangan Residential_20181019_085530-213389191.jpg",
+                "Time": "19-10-2018 08:56:40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2623673,
+                    18.5367509,
+                    41.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Melchor Dumlao",
+                "Photo": "Bangan Residential_20181019_0856461452378.jpg",
+                "Time": "19-10-2018 08:57:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2623629,
+                    18.5367128,
+                    43.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Florante Inocente",
+                "Photo": "Bangan Residential_20181019_085720-1652653882.jpg",
+                "Time": "19-10-2018 08:58:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2625504,
+                    18.5366453,
+                    42.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alejandra Inocente",
+                "Photo": "Bangan Residential_20181019_085812-1175540072.jpg",
+                "Time": "19-10-2018 08:58:48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2625568,
+                    18.5366499,
+                    42.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Gilbert Mina",
+                "Photo": "Bangan Residential_20181019_085851524851562.jpg",
+                "Time": "19-10-2018 08:59:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2627038,
+                    18.5365692,
+                    41.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Artemio Rapal",
+                "Photo": "Bangan Residential_20181019_085927-219428891.jpg",
+                "Time": "19-10-2018 09:00:31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2628258,
+                    18.5364242,
+                    41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Samson Adolfo",
+                "Photo": "Bangan Residential_20181019_090039-81224585.jpg",
+                "Time": "19-10-2018 09:01:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2631054,
+                    18.5362637,
+                    42.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joel Alcarde",
+                "Photo": "Bangan Residential_20181019_090148-105087441.jpg",
+                "Time": "19-10-2018 09:02:36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2630564,
+                    18.5360831,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Stenovfor Adolfo",
+                "Photo": "Bangan Residential_20181019_090322510766050.jpg",
+                "Time": "19-10-2018 09:04:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2631721,
+                    18.5359957,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Stenovfor Adolfo",
+                "Photo": "Bangan Residential_20181019_090448627911585.jpg",
+                "Time": "19-10-2018 09:05:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2632195,
+                    18.5359958,
+                    44.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Norma barit",
+                "Photo": "Bangan Residential_20181019_0905211227356324.jpg",
+                "Time": "19-10-2018 09:06:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2633246,
+                    18.5360113,
+                    45.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Norma Barit",
+                "Photo": "Bangan Residential_20181019_090601-481661057.jpg",
+                "Time": "19-10-2018 09:06:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2634011,
+                    18.5360448,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dominick Eclispse",
+                "Photo": "Bangan Residential_20181019_0906411661239952.jpg",
+                "Time": "19-10-2018 09:07:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2635947,
+                    18.535888,
+                    43.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rowena Unarce",
+                "Photo": "Bangan Residential_20181019_0908191895415061.jpg",
+                "Time": "19-10-2018 09:09:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2638207,
+                    18.5356443,
+                    43.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jonathan Unarce",
+                "Photo": "Bangan Residential_20181019_090951-28760986.jpg",
+                "Time": "19-10-2018 09:10:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2636315,
+                    18.5355167,
+                    42.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Miner Clata",
+                "Photo": "Bangan Residential_20181019_0911501794977428.jpg",
+                "Time": "19-10-2018 09:14:49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2643783,
+                    18.5353707,
+                    44.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "NAVARRO",
+                "Photo": "Bangan Residential_20181019_0914581121863403.jpg",
+                "Time": "19-10-2018 09:15:23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2644531,
+                    18.5353757,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Leoncio Collado",
+                "Photo": "Bangan Residential_20181019_0916041027470111.jpg",
+                "Time": "19-10-2018 09:16:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2648159,
+                    18.5353003,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "C.Y Maquera",
+                "Photo": "Bangan Residential_20181019_091642-1509144817.jpg",
+                "Time": "19-10-2018 09:17:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2648401,
+                    18.5353141,
+                    44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Cesar Rumino",
+                "Photo": "Bangan Residential_20181019_091835-336605595.jpg",
+                "Time": "19-10-2018 09:19:05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2649198,
+                    18.5349885,
+                    44.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Cesar Rumino (caretaker)",
+                "Photo": "Bangan Residential_20181019_0919161273575960.jpg",
+                "Time": "19-10-2018 09:19:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.264865,
+                    18.5350709,
+                    46.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Zaida maquera",
+                "Photo": "Bangan Residential_20181019_0919441475535486.jpg",
+                "Time": "19-10-2018 09:20:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2649909,
+                    18.5351277,
+                    44.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vergilio Que",
+                "Photo": "Bangan Residential_20181019_092041-938329257.jpg",
+                "Time": "19-10-2018 09:21:28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2650167,
+                    18.5350856,
+                    43.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Fe Que",
+                "Photo": "Bangan Residential_20181019_0921291278842592.jpg",
+                "Time": "19-10-2018 09:22:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2650673,
+                    18.5350465,
+                    44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Leonardo Que Jr.",
+                "Photo": "Bangan Residential_20181019_092206918071606.jpg",
+                "Time": "19-10-2018 09:22:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2652303,
+                    18.5351225,
+                    43.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "George Coling",
+                "Photo": "Bangan Residential_20181019_092257-248060236.jpg",
+                "Time": "19-10-2018 09:24:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2653056,
+                    18.5353511,
+                    43.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Zenaida Maquera",
+                "Photo": "Bangan Residential_20181019_092511-416477237.jpg",
+                "Time": "19-10-2018 09:25:51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2652475,
+                    18.5354321,
+                    43.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Benny Marasigan",
+                "Photo": "Bangan Residential_20181019_0925531277597281.jpg",
+                "Time": "19-10-2018 09:27:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2651615,
+                    18.5358278,
+                    41
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ferdinan Sadornas",
+                "Photo": "Bangan Residential_20181019_0927101890396722.jpg",
+                "Time": "19-10-2018 09:27:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2651454,
+                    18.5358464,
+                    43.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Amiel Galzote",
+                "Photo": "Bangan Residential_20181019_09272961270695.jpg",
+                "Time": "19-10-2018 09:27:59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.265227,
+                    18.5360568,
+                    41.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jeofrey Balvino",
+                "Photo": "Bangan Residential_20181019_0928061964685271.jpg",
+                "Time": "19-10-2018 09:29:01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2651481,
+                    18.5361791,
+                    42
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "JunJun Mariano",
+                "Photo": "Bangan Residential_20181019_092902-1063792126.jpg",
+                "Time": "19-10-2018 09:29:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2651168,
+                    18.5361785,
+                    43.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Victoria Navarro",
+                "Photo": "Bangan Residential_20181019_0929182139748138.jpg",
+                "Time": "19-10-2018 09:29:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2650195,
+                    18.5362527,
+                    42.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dionisio Vallerez",
+                "Photo": "Bangan Residential_20181019_092956-1144218026.jpg",
+                "Time": "19-10-2018 09:31:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2649622,
+                    18.5365778,
+                    42.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Florentino Sadornas",
+                "Photo": "Bangan Residential_20181019_093119-216482034.jpg",
+                "Time": "19-10-2018 09:31:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2650497,
+                    18.5366354,
+                    43.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jose Urata",
+                "Photo": "Bangan Residential_20181019_093152681439277.jpg",
+                "Time": "19-10-2018 09:33:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2653264,
+                    18.5371122,
+                    45.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaime Urata",
+                "Photo": "Bangan Residential_20181019_0933171562546887.jpg",
+                "Time": "19-10-2018 09:33:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2654232,
+                    18.5371994,
+                    45.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jay Urata",
+                "Photo": "Bangan Residential_20181019_0933401430243869.jpg",
+                "Time": "19-10-2018 09:34:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2654309,
+                    18.5372202,
+                    44
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jun Quibaran",
+                "Photo": "Bangan Residential_20181019_093420-2000693192.jpg",
+                "Time": "19-10-2018 09:34:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2655276,
+                    18.5372681,
+                    43.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jonel Salmazan",
+                "Photo": "Bangan Residential_20181019_0934401895643655.jpg",
+                "Time": "19-10-2018 09:34:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2655528,
+                    18.5372762,
+                    42.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Benjie Tamayo",
+                "Photo": "Bangan Residential_20181019_0934541053662882.jpg",
+                "Time": "19-10-2018 09:36:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2659607,
+                    18.5375819,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jun Urata",
+                "Photo": "Bangan Residential_20181019_093655-1889964215.jpg",
+                "Time": "19-10-2018 09:37:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660104,
+                    18.5376193,
+                    42.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edward Maquera",
+                "Photo": "Bangan Residential_20181019_09391966958420.jpg",
+                "Time": "19-10-2018 09:41:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2654865,
+                    18.5366497,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vergilio Que",
+                "Photo": "Bangan Residential_20181019_094517409714729.jpg",
+                "Time": "19-10-2018 09:45:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.265042,
+                    18.5351651,
+                    45.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Brgy. hall of Bangan",
+                "Photo": "Bangan Residential_20181019_094730-960220189.jpg",
+                "Time": "19-10-2018 09:48:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2654361,
+                    18.5346508,
+                    48.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Masisit cooperative",
+                "Photo": "Bangan Residential_20181019_0949281268768239.jpg",
+                "Time": "19-10-2018 09:50:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2656431,
+                    18.5345275,
+                    45.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Maja Ramos",
+                "Photo": "Bangan Residential_20181019_102410629908011.jpg",
+                "Time": "19-10-2018 10:24:36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2689534,
+                    18.5325765,
+                    47.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Floramante Briones",
+                "Photo": "Bangan Residential_20181019_1025032071843833.jpg",
+                "Time": "19-10-2018 10:26:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2686914,
+                    18.532135,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jose Reyes",
+                "Photo": "Bangan Residential_20181019_102607-2125826985.jpg",
+                "Time": "19-10-2018 10:27:31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2684438,
+                    18.5319201,
+                    49.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jezel Domingo",
+                "Photo": "Bangan Residential_20181019_102740-179938329.jpg",
+                "Time": "19-10-2018 10:28:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2683422,
+                    18.5319067,
+                    50.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Felimon Labbao",
+                "Photo": "Bangan Residential_20181019_1029041526839475.jpg",
+                "Time": "19-10-2018 10:29:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2683402,
+                    18.5317873,
+                    51.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Analiza Labbao",
+                "Photo": "Bangan Residential_20181019_102922-2124154495.jpg",
+                "Time": "19-10-2018 10:30:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2684628,
+                    18.5317183,
+                    50.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vicente Inis Jr",
+                "Photo": "Bangan Residential_20181019_103004446202874.jpg",
+                "Time": "19-10-2018 10:30:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2684287,
+                    18.5317214,
+                    50
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rosela collins",
+                "Photo": "Bangan Residential_20181019_103051819101642.jpg",
+                "Time": "19-10-2018 10:31:25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2683862,
+                    18.5315711,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Celso Tangonan",
+                "Photo": "Bangan Residential_20181019_103301-1907444269.jpg",
+                "Time": "19-10-2018 10:34:58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2680296,
+                    18.5310286,
+                    45.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Presentacion Idica",
+                "Photo": "Bangan Residential_20181019_1035332120613037.jpg",
+                "Time": "19-10-2018 10:36:19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2677851,
+                    18.5312465,
+                    47.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nemicio Mangligot",
+                "Photo": "Bangan Residential_20181019_103637874280970.jpg",
+                "Time": "19-10-2018 10:38:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674418,
+                    18.5314235,
+                    48
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ricarte Batoon",
+                "Photo": "Bangan Residential_20181019_103836-1177264886.jpg",
+                "Time": "19-10-2018 10:39:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674166,
+                    18.5313195,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Laridel Mangligot",
+                "Photo": "Bangan Residential_20181019_1039131469178870.jpg",
+                "Time": "19-10-2018 10:39:28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674097,
+                    18.5313152,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Precentacion Mangligot",
+                "Photo": "Bangan Residential_20181019_103959959674551.jpg",
+                "Time": "19-10-2018 10:40:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674905,
+                    18.5312367,
+                    49.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Herminio Udaundo",
+                "Photo": "Bangan Residential_20181019_104045-180556012.jpg",
+                "Time": "19-10-2018 10:42:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2675553,
+                    18.5310351,
+                    49.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edwardo Mina",
+                "Photo": "Bangan Residential_20181019_104409472925845.jpg",
+                "Time": "19-10-2018 10:45:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2670753,
+                    18.5313929,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Delia Bainado (caretaker)",
+                "Photo": "Bangan Residential_20181019_104732453385738.jpg",
+                "Time": "19-10-2018 10:48:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2664193,
+                    18.5321051,
+                    42.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Robert Dumlao",
+                "Photo": "Bangan Residential_20181019_1048441781662200.jpg",
+                "Time": "19-10-2018 10:49:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2665932,
+                    18.5320468,
+                    44.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Clarvin Mangligot",
+                "Photo": "Bangan Residential_20181019_1049171470874845.jpg",
+                "Time": "19-10-2018 10:50:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2676162,
+                    18.5314125,
+                    44.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Esperanza Ilac",
+                "Photo": "Bangan Residential_20181019_105202-712115177.jpg",
+                "Time": "19-10-2018 10:52:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2680318,
+                    18.5311628,
+                    43.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nicolas Bistayan",
+                "Photo": "Bangan Residential_20181022_1429331798721570.jpg",
+                "Time": "22-10-2018 14:30:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701795,
+                    18.5303029,
+                    44.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Carlo Bistayan",
+                "Photo": "Bangan Residential_20181022_143006716912650.jpg",
+                "Time": "22-10-2018 14:30:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701903,
+                    18.5303053,
+                    45.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Loreto Bistayan",
+                "Photo": "Bangan Residential_20181022_143029-436578331.jpg",
+                "Time": "22-10-2018 14:31:25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702566,
+                    18.5301798,
+                    47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vincent Aspili",
+                "Photo": "Bangan Residential_20181022_143137524306027.jpg",
+                "Time": "22-10-2018 14:32:36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701869,
+                    18.5298768,
+                    48.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Minelia Aspili",
+                "Photo": "Bangan Residential_20181022_143251-97605135.jpg",
+                "Time": "22-10-2018 14:33:02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270164,
+                    18.5297701,
+                    48.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edgar Aspili",
+                "Photo": "Bangan Residential_20181022_143305-1473896833.jpg",
+                "Time": "22-10-2018 14:33:56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700638,
+                    18.5295437,
+                    49
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jaime Sotosa",
+                "Photo": "Bangan Residential_20181022_1434092134960033.jpg",
+                "Time": "22-10-2018 14:34:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700613,
+                    18.5293026,
+                    51.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Agustin Cachapero",
+                "Photo": "Bangan Residential_20181022_143443-1549861349.jpg",
+                "Time": "22-10-2018 14:35:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700303,
+                    18.5293108,
+                    51.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Precila Illustrado",
+                "Photo": "Bangan Residential_20181022_143846-1881222354.jpg",
+                "Time": "22-10-2018 14:39:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707794,
+                    18.5302587,
+                    43.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Arte Barcena",
+                "Photo": "Bangan Residential_20181022_1439191866057907.jpg",
+                "Time": "22-10-2018 14:39:40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707471,
+                    18.5302887,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joel Illustrado",
+                "Photo": "Bangan Residential_20181022_1439431334947576.jpg",
+                "Time": "22-10-2018 14:40:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2707978,
+                    18.5302838,
+                    45.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vilma Illustrado",
+                "Photo": "Bangan Residential_20181022_144008-725834112.jpg",
+                "Time": "22-10-2018 14:40:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270893,
+                    18.5303253,
+                    47.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Aurella pacris",
+                "Photo": "Bangan Residential_20181022_144048-771281270.jpg",
+                "Time": "22-10-2018 14:41:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2709188,
+                    18.5303288,
+                    47.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Chris Penialber",
+                "Photo": "Bangan Residential_20181022_1441201015712809.jpg",
+                "Time": "22-10-2018 14:42:31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2709436,
+                    18.530592,
+                    49.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Clarisa Illustrado",
+                "Photo": "Bangan Residential_20181022_1442342027438499.jpg",
+                "Time": "22-10-2018 14:42:55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2710495,
+                    18.5305401,
+                    46.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Loreto Gabriel",
+                "Photo": "Bangan Residential_20181022_1443111088272076.jpg",
+                "Time": "22-10-2018 14:43:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711484,
+                    18.5306101,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Allen Pacris",
+                "Photo": "Bangan Residential_20181022_144342400707150.jpg",
+                "Time": "22-10-2018 14:43:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711484,
+                    18.5306101,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dominador Biscaro",
+                "Photo": "Bangan Residential_20181022_14444071851830.jpg",
+                "Time": "22-10-2018 14:45:08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711084,
+                    18.5306543,
+                    47.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Delfin Burgos",
+                "Photo": "Bangan Residential_20181022_1445261726342356.jpg",
+                "Time": "22-10-2018 14:46:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713071,
+                    18.5304159,
+                    48.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roel Burgos",
+                "Photo": "Bangan Residential_20181022_144632-1417597621.jpg",
+                "Time": "22-10-2018 14:46:51"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713454,
+                    18.5304038,
+                    46.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Benito Fronda",
+                "Photo": "Bangan Residential_20181022_144654-453922818.jpg",
+                "Time": "22-10-2018 14:47:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714385,
+                    18.5304989,
+                    47.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rodolfo Liquigan",
+                "Photo": "Bangan Residential_20181022_144732354217239.jpg",
+                "Time": "22-10-2018 14:48:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2715252,
+                    18.5304503,
+                    46.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bryan Andres",
+                "Photo": "Bangan Residential_20181022_1451101770530193.jpg",
+                "Time": "22-10-2018 14:51:49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2715984,
+                    18.5304226,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Arsenia Barcena",
+                "Photo": "Bangan Residential_20181022_145153-1420192862.jpg",
+                "Time": "22-10-2018 14:52:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2716163,
+                    18.5303702,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lowela Pinudin",
+                "Photo": "Bangan Residential_20181022_145244946196882.jpg",
+                "Time": "22-10-2018 14:53:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2716536,
+                    18.5303209,
+                    46.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Virgilio Bagasol",
+                "Photo": "Bangan Residential_20181022_145316-545917908.jpg",
+                "Time": "22-10-2018 14:53:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271561,
+                    18.5303523,
+                    44.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ester Piluden",
+                "Photo": "Bangan Residential_20181022_1454151597119125.jpg",
+                "Time": "22-10-2018 14:54:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714089,
+                    18.5302947,
+                    45.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ester Piluden2",
+                "Photo": "Bangan Residential_20181022_1455071787898303.jpg",
+                "Time": "22-10-2018 14:56:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2712278,
+                    18.5303295,
+                    46.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Danilo Dumlao",
+                "Photo": "Bangan Residential_20181022_145637-134674030.jpg",
+                "Time": "22-10-2018 14:56:55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2712294,
+                    18.5303173,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Crusado Church",
+                "Photo": "Bangan Residential_20181022_145700835387292.jpg",
+                "Time": "22-10-2018 14:57:38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713113,
+                    18.5301958,
+                    42.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Julio Castillo",
+                "Photo": "Bangan Residential_20181022_1501171676401201.jpg",
+                "Time": "22-10-2018 15:01:48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.269884,
+                    18.530802,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roger Tabbada",
+                "Photo": "Bangan Residential_20181022_1502521681209241.jpg",
+                "Time": "22-10-2018 15:03:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700998,
+                    18.530796,
+                    47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Avelina Tabbada",
+                "Photo": "Bangan Residential_20181022_1503152028407866.jpg",
+                "Time": "22-10-2018 15:03:42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2700022,
+                    18.5308514,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "julio Castillo",
+                "Photo": "Bangan Residential_20181022_150349-1424776985.jpg",
+                "Time": "22-10-2018 15:06:36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2699317,
+                    18.5310152,
+                    39.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joel Castillo",
+                "Photo": "Bangan Residential_20181022_150639-440455359.jpg",
+                "Time": "22-10-2018 15:06:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2699868,
+                    18.5309883,
+                    41.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lagrimas Dancil",
+                "Photo": "Bangan Residential_20181022_1507111866697051.jpg",
+                "Time": "22-10-2018 15:07:49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701536,
+                    18.5314848,
+                    44.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Marissa Dancil",
+                "Photo": "Bangan Residential_20181022_1507541905086318.jpg",
+                "Time": "22-10-2018 15:08:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701536,
+                    18.5314848,
+                    44.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alfredo Tangonan",
+                "Photo": "Bangan Residential_20181022_150810-1710215524.jpg",
+                "Time": "22-10-2018 15:09:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702459,
+                    18.5316733,
+                    44.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Harold Tangonan",
+                "Photo": "Bangan Residential_20181022_150941214505644.jpg",
+                "Time": "22-10-2018 15:10:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703171,
+                    18.5316464,
+                    44.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Artemio Tangonan",
+                "Photo": "Bangan Residential_20181022_151010996360855.jpg",
+                "Time": "22-10-2018 15:10:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702685,
+                    18.5316933,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Amando Tangonan",
+                "Photo": "Bangan Residential_20181022_151123923830412.jpg",
+                "Time": "22-10-2018 15:11:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703483,
+                    18.5318662,
+                    43
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Bernabe Barcena",
+                "Photo": "Bangan Residential_20181022_151431597128344.jpg",
+                "Time": "22-10-2018 15:14:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2712776,
+                    18.5315797,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nenita Bueno",
+                "Photo": "Bangan Residential_20181022_151450-1014201943.jpg",
+                "Time": "22-10-2018 15:16:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711621,
+                    18.5317803,
+                    47.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ofelia Bueno",
+                "Photo": "Bangan Residential_20181022_1516111438986098.jpg",
+                "Time": "22-10-2018 15:16:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711461,
+                    18.5317898,
+                    45.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Wilma Agcaoili",
+                "Photo": "Bangan Residential_20181022_151658514432075.jpg",
+                "Time": "22-10-2018 15:17:10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2711683,
+                    18.5318385,
+                    46.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Antonio Arenabo",
+                "Photo": "Bangan Residential_20181022_152008111073161.jpg",
+                "Time": "22-10-2018 15:21:06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713873,
+                    18.5318659,
+                    46.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Beth Macagga",
+                "Photo": "Bangan Residential_20181022_152109-1216524215.jpg",
+                "Time": "22-10-2018 15:22:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714039,
+                    18.5320063,
+                    48.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Romeo Tamayo",
+                "Photo": "Bangan Residential_20181022_152220-362680574.jpg",
+                "Time": "22-10-2018 15:22:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714117,
+                    18.532072,
+                    44.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jay Asincion",
+                "Photo": "Bangan Residential_20181022_152247328516342.jpg",
+                "Time": "22-10-2018 15:24:23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2715446,
+                    18.5320882,
+                    47.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alex Arenabo",
+                "Photo": "Bangan Residential_20181022_152442-618146531.jpg",
+                "Time": "22-10-2018 15:24:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2714581,
+                    18.5321821,
+                    45.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Charita Lokadio",
+                "Photo": "Bangan Residential_20181022_152532-1364863392.jpg",
+                "Time": "22-10-2018 15:25:57"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271464,
+                    18.5321853,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Emilio Barcena Jr.",
+                "Photo": "Bangan Residential_20181022_15260048364077.jpg",
+                "Time": "22-10-2018 15:26:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.271464,
+                    18.5321853,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elimer Barcena",
+                "Photo": "Bangan Residential_20181022_152625190795674.jpg",
+                "Time": "22-10-2018 15:26:44"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2713948,
+                    18.5323537,
+                    47.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elvi Agno",
+                "Photo": "Bangan Residential_20181022_152831-524858993.jpg",
+                "Time": "22-10-2018 15:28:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2710345,
+                    18.5316564,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jessie Ines",
+                "Photo": "Bangan Residential_20181022_152844745927742.jpg",
+                "Time": "22-10-2018 15:29:33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2709121,
+                    18.5316186,
+                    47.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "-Grace Domingo",
+                "Photo": "Bangan Residential_20181022_153052-129560234.jpg",
+                "Time": "22-10-2018 15:32:07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703986,
+                    18.5320365,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Anita Eclarin",
+                "Photo": "Bangan Residential_20181022_153211-1686067949.jpg",
+                "Time": "22-10-2018 15:32:28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2703697,
+                    18.5320478,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dianalyn Dumlao",
+                "Photo": "Bangan Residential_20181022_153231609949494.jpg",
+                "Time": "22-10-2018 15:33:46"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704703,
+                    18.5321477,
+                    43.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Manuel Eclarin",
+                "Photo": "Bangan Residential_20181022_153417-303429933.jpg",
+                "Time": "22-10-2018 15:34:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2704867,
+                    18.5322314,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Dante Ilustrado",
+                "Photo": "Bangan Residential_20181022_1534371017781358.jpg",
+                "Time": "22-10-2018 15:35:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2705418,
+                    18.5322665,
+                    45.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Vergilio Reyes",
+                "Photo": "Bangan Residential_20181022_153507-772587963.jpg",
+                "Time": "22-10-2018 15:35:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706771,
+                    18.5324043,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nogie Ramos",
+                "Photo": "Bangan Residential_20181022_153556-1949193868.jpg",
+                "Time": "22-10-2018 15:36:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706549,
+                    18.532457,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Nestor Sison",
+                "Photo": "Bangan Residential_20181022_153612817633718.jpg",
+                "Time": "22-10-2018 15:36:29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2706549,
+                    18.532457,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Chester Baltazar",
+                "Photo": "Bangan Residential_20181022_1539291448977187.jpg",
+                "Time": "22-10-2018 15:39:54"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701395,
+                    18.5319968,
+                    47.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Chester Baltazar",
+                "Photo": "Bangan Residential_20181022_153957-981583931.jpg",
+                "Time": "22-10-2018 15:40:12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2701395,
+                    18.5319968,
+                    47.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Chester Baltazar",
+                "Photo": "Bangan Residential_20181022_1540231396493210.jpg",
+                "Time": "22-10-2018 15:40:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2702108,
+                    18.5320043,
+                    45.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Loreta Tangonan",
+                "Photo": "Bangan Residential_20181022_154122272532594.jpg",
+                "Time": "22-10-2018 15:42:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2696956,
+                    18.5322771,
+                    46.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Mc Kevin Bautista",
+                "Photo": "Bangan Residential_20181022_154215-308254904.jpg",
+                "Time": "22-10-2018 15:43:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2694843,
+                    18.5323698,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Romelyn Calizo",
+                "Photo": "Bangan Residential_20181022_154323-621983966.jpg",
+                "Time": "22-10-2018 15:44:05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693773,
+                    18.5323601,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Relyn Hawlader",
+                "Photo": "Bangan Residential_20181022_154429376056865.jpg",
+                "Time": "22-10-2018 15:44:55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693504,
+                    18.5324643,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Zenaida Acantillado",
+                "Photo": "Bangan Residential_20181022_154527312851276.jpg",
+                "Time": "22-10-2018 15:46:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693398,
+                    18.5324867,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Noel Gomez",
+                "Photo": "Bangan Residential_20181022_1547091890755141.jpg",
+                "Time": "22-10-2018 15:47:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693604,
+                    18.5319997,
+                    46.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jonel Gomez",
+                "Photo": "Bangan Residential_20181022_154746-374497869.jpg",
+                "Time": "22-10-2018 15:48:01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693758,
+                    18.531976,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Michelle Barikawa",
+                "Photo": "Bangan Residential_20181022_154805-1517974410.jpg",
+                "Time": "22-10-2018 15:48:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693237,
+                    18.5318549,
+                    49.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Patricia Gomez",
+                "Photo": "Bangan Residential_20181022_154835-743401879.jpg",
+                "Time": "22-10-2018 15:49:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2693237,
+                    18.5318549,
+                    49.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joey Dancil",
+                "Photo": "Bangan Residential_20181022_154931-1145607041.jpg",
+                "Time": "22-10-2018 15:49:56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2694512,
+                    18.5319868,
+                    43.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Avelino T. Idica",
+                "Photo": "Bangan Residential_20181108_092146380466983.jpg",
+                "Time": "08-11-2018 09:22:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2679042,
+                    18.5307939,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Andres Viscaro Jr.",
+                "Photo": "Bangan Residential_20181108_092533339116995.jpg",
+                "Time": "08-11-2018 09:26:25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2677192,
+                    18.5304975,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ruben Tabunan",
+                "Photo": "Bangan Residential_20181108_092707-1393941012.jpg",
+                "Time": "08-11-2018 09:30:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.267229,
+                    18.5299824,
+                    48.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Paz Bautista",
+                "Photo": "Bangan Residential_20181108_0934132050346439.jpg",
+                "Time": "08-11-2018 09:35:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2670666,
+                    18.5295483,
+                    47.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ernesto Barcena",
+                "Photo": "Bangan Residential_20181108_093501-500085802.jpg",
+                "Time": "08-11-2018 09:35:26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.267116,
+                    18.5295857,
+                    46.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jun Ecal",
+                "Photo": "Bangan Residential_20181108_093612-1680304726.jpg",
+                "Time": "08-11-2018 09:36:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2667673,
+                    18.5299079,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jayson Gregorio",
+                "Photo": "Bangan Residential_20181108_093646328320382.jpg",
+                "Time": "08-11-2018 09:37:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.266658,
+                    18.5298065,
+                    49.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jopy Gregorio",
+                "Photo": "Bangan Residential_20181108_093735-152558289.jpg",
+                "Time": "08-11-2018 09:38:20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2666628,
+                    18.5297973,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Raquel Bulatao",
+                "Photo": "Bangan Residential_20181108_0940471452593082.jpg",
+                "Time": "08-11-2018 09:41:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2669574,
+                    18.5293726,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Norma Vera",
+                "Photo": "Bangan Residential_20181108_094509425252066.jpg",
+                "Time": "08-11-2018 09:45:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660538,
+                    18.5280769,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Ernesto Baltazar Sr.",
+                "Photo": "Bangan Residential_20181108_0945391477115601.jpg",
+                "Time": "08-11-2018 09:46:11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660632,
+                    18.5280915,
+                    48.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rudy Cabiad",
+                "Photo": "Bangan Residential_20181108_094734-1627274991.jpg",
+                "Time": "08-11-2018 09:48:45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2662107,
+                    18.5281412,
+                    48.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Feliciano Galeon Jr.",
+                "Photo": "Bangan Residential_20181108_094853-1595139338.jpg",
+                "Time": "08-11-2018 09:49:27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660734,
+                    18.5282111,
+                    47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Corazon Mangligot",
+                "Photo": "Bangan Residential_20181108_0949311908722708.jpg",
+                "Time": "08-11-2018 09:50:13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2661635,
+                    18.5282648,
+                    46.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edgar Barcena",
+                "Photo": "Bangan Residential_20181108_095052-956546158.jpg",
+                "Time": "08-11-2018 09:51:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2662377,
+                    18.5283673,
+                    45.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Elmirante Barcena",
+                "Photo": "Bangan Residential_20181108_095134-958773495.jpg",
+                "Time": "08-11-2018 09:52:09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2663582,
+                    18.5284872,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Roel Cabiad",
+                "Photo": "Bangan Residential_20181108_0952541263352802.jpg",
+                "Time": "08-11-2018 09:53:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2662847,
+                    18.5285334,
+                    46.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Henry Mangligot",
+                "Photo": "Bangan Residential_20181108_095331-489612963.jpg",
+                "Time": "08-11-2018 09:53:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2663472,
+                    18.528632,
+                    44.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Romy Martines",
+                "Photo": "Bangan Residential_20181108_095358152709825.jpg",
+                "Time": "08-11-2018 09:54:24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2663743,
+                    18.5286428,
+                    46
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joseph Barcena",
+                "Photo": "Bangan Residential_20181108_095426-2059903502.jpg",
+                "Time": "08-11-2018 09:54:53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.266421,
+                    18.5286397,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Joel Barcena",
+                "Photo": "Bangan Residential_20181108_095514-292833321.jpg",
+                "Time": "08-11-2018 09:55:41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2664775,
+                    18.5288033,
+                    44.79999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Melecio Barcena",
+                "Photo": "Bangan Residential_20181108_095601-934258123.jpg",
+                "Time": "08-11-2018 09:56:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2666497,
+                    18.5291087,
+                    45
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jenny Mel Ilustrdo",
+                "Photo": "Bangan Residential_20181108_095709-1617429905.jpg",
+                "Time": "08-11-2018 09:57:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2663726,
+                    18.5294035,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Virginia Ilustrado",
+                "Photo": "Bangan Residential_20181108_095744262325010.jpg",
+                "Time": "08-11-2018 09:58:10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2664232,
+                    18.5293681,
+                    45.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Boy Tangunan",
+                "Photo": "Bangan Residential_20181108_095812861635490.jpg",
+                "Time": "08-11-2018 09:59:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2664469,
+                    18.5294474,
+                    45.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Tante Tabbada",
+                "Photo": "Bangan Residential_20181108_095912-505124383.jpg",
+                "Time": "08-11-2018 09:59:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2663114,
+                    18.5295305,
+                    44.099998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Edwardo Donaire",
+                "Photo": "Bangan Residential_20181108_100004-770664704.jpg",
+                "Time": "08-11-2018 10:00:37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2660295,
+                    18.5299386,
+                    46.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Eddiemar Bumanglag",
+                "Photo": "Bangan Residential_20181108_100616-1365790750.jpg",
+                "Time": "08-11-2018 10:06:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2633937,
+                    18.5297905,
+                    45.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Tano Tabaniag",
+                "Photo": "Bangan Residential_20181108_100700-1223374824.jpg",
+                "Time": "08-11-2018 10:07:32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2632415,
+                    18.5298587,
+                    44.20000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Domingo Campano",
+                "Photo": "Bangan Residential_20181108_1007331131908861.jpg",
+                "Time": "08-11-2018 10:09:24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2628514,
+                    18.529895,
+                    46.900001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Jerome Pacleb",
+                "Photo": "Bangan Residential_20181108_1009301060501193.jpg",
+                "Time": "08-11-2018 10:09:52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.262898,
+                    18.5298646,
+                    47.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Wilfredo Tabalbag",
+                "Photo": "Bangan Residential_20181108_101053-501839106.jpg",
+                "Time": "08-11-2018 10:11:15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2624396,
+                    18.5303604,
+                    44.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Julian Doran",
+                "Photo": "Bangan Residential_20181108_101510-571568087.jpg",
+                "Time": "08-11-2018 10:15:35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2641894,
+                    18.529221,
+                    44.400001525878906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Lydia Cenal",
+                "Photo": "Bangan Residential_20181108_102200483564982.jpg",
+                "Time": "08-11-2018 10:22:21"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674818,
+                    18.5301725,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Francisco Cenal -",
+                "Photo": "Bangan Residential_20181108_1022251162440280.jpg",
+                "Time": "08-11-2018 10:22:43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2674611,
+                    18.5301983,
+                    47.599998474121094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Francisco Cenal 2",
+                "Photo": "Bangan Residential_20181108_1022471225661659.jpg",
+                "Time": "08-11-2018 10:23:23"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2672764,
+                    18.5303314,
+                    47.70000076293945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Rafael Gregorio",
+                "Photo": "Bangan Residential_20181108_102324500472273.jpg",
+                "Time": "08-11-2018 10:23:50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2671277,
+                    18.5303449,
+                    48.29999923706055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Alfonso Cenal jr.",
+                "Photo": "Bangan Residential_20181108_102352-1996096821.jpg",
+                "Time": "08-11-2018 10:24:18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2671216,
+                    18.5303872,
+                    48.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Remarks": "Francisco Cenal Sr.",
+                "Photo": "Bangan Residential_20181108_102420-1779455294.jpg",
+                "Time": "08-11-2018 10:24:55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2671335,
+                    18.5305767,
+                    47.900001525878906
+                ]
+            }
+        }
+    ]
+}

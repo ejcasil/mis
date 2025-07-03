@@ -1,0 +1,7 @@
+ /* Force browsers to print background colors */
+ @media print {
+    body {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+}

@@ -1,0 +1,7 @@
+ADMIN ACCOUT
+sa: admin
+pw: admin@123456
+
+RESIDENT ACCOUNT
+sa: jeffrey2024
+pw: resident@123456
